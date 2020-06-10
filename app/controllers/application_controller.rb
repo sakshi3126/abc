@@ -4,4 +4,5 @@ class ApplicationController < ActionController::API
   # def set_default_request_format
   #   request.format = :json unless params[:format]
   # end
+  include Response
 end
