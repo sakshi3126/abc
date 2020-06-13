@@ -5,4 +5,5 @@ class ApplicationController < ActionController::API
   #   request.format = :json unless params[:format]
   # end
   include Response
+  include Authenticate
 end
