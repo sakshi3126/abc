@@ -25,3 +25,6 @@ Things you may want to cover:
 * ...
 
 *Using Koala gem for facebook integration.
+
+
+## Used Active Model Serializer to customize json response
