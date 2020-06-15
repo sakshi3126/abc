@@ -44,3 +44,7 @@ gem 'simple_token_authentication', '~> 1.0'
 gem "koala"
 gem "faker"
 gem "active_model_serializers", "~> 0.10.0"
+
+## Improve rails performance
+gem 'counter_culture', '~> 2.0'
+gem 'rubocop-faker'
